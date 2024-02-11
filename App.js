@@ -8,7 +8,5 @@ const heading = React.createElement("div", { id: "parent" }, [
     React.createElement("h1", {}, "Heading 2"),
   ]),
 ]);
-console.log("heading", heading);
 const root = ReactDOM.createRoot(document.getElementById("root"));
-console.log("root", root);
 root.render(heading);
