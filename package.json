@@ -1,0 +1,27 @@
+{
+  "name": "react-1",
+  "version": "1.0.0",
+  "description": "\"react project developed by karthick\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kar0297/react-projects.git"
+  },
+  "keywords": [
+    "\"react\"",
+    "\"react",
+    "js\""
+  ],
+  "author": "karthick r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kar0297/react-projects/issues"
+  },
+  "homepage": "https://github.com/kar0297/react-projects#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
